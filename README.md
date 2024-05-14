@@ -1,4 +1,4 @@
-![image](https://github.com/mo-chch/mo-chch/assets/60382211/e4ffc9d8-69a1-4aa9-8a10-446c6423a90d)### Hi there! I'm Mo👋
+### Hi there! I'm Mo👋
 
 ## DevOps Engineer | AWS Certified 
 
