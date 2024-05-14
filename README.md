@@ -1,8 +1,8 @@
-### Salam there! I'm Mohammed 👋
+![image](https://github.com/mo-chch/mo-chch/assets/60382211/e4ffc9d8-69a1-4aa9-8a10-446c6423a90d)### Hi there! I'm Mo👋
 
-## DevOps Engineer | AWS Certified | IaC Enthusiast
+## DevOps Engineer | AWS Certified 
 
-Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and service desk. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects.
 
 ### Tech Stack
 [![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -14,43 +14,41 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - **Cloud**: AWS
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
-- **Configuration Management**: Ansible, Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Bash, Python
+- **IaC**: Terraform
+- **Configuration Management**: Ansible
+- **Monitoring**: Prometheus
+- **Scripting**: Bash, JavaScript, Python, PowerShell
 - **Version Control**: Git, GitHub
 
 ### 🌱 I'm currently learning
 
-- Infrastructure as Code with CDK, CDKTF, and Pulumi
+- Infrastructure as Code with CDK, and Pulumi
 
 ### 👯 I'm looking to collaborate on
 
-- Open-source projects related to DevOps, cloud-native technologies, and automation
+- Open-source projects related to DevOps, cloud-native technologies
 - Building scalable and highly available systems
-
-### 📫 How to reach me
-
-- https://cloudfalcon.io
 
 ### 🏆 Certifications
 
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Solutions Architect - Associate
-- HashiCorp Certified: Terraform Associate
+- AWS Certified Solutions Architect - Associate (SAA-C03)
+- AWS Certified Developer - Associate (DVA-C02)
+- AWS Cloud Practitioner (CLF-C03)
+- MicroSoft Azure Fundamentals (AZ-900)
 
 ### 🎖️ Badges
 
-![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
+![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
+
 
 ![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-chch&show_icons=true&theme=radical)
 
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
+
