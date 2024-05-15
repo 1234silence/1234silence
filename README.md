@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🎖️ Badges
 
-![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge)
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge)
 
 ![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
